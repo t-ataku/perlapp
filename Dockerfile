@@ -1,0 +1,2 @@
+
+RUN yum install mariadb
