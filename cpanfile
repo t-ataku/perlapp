@@ -1,1 +1,1 @@
-require 'DBD::MariaDB', '>=1.0';
+requires 'DBD::MariaDB', '>=1.0';
